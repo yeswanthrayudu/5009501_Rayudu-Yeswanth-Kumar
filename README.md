@@ -1,3 +1,2 @@
 # 5009501_Rayudu-Yeswanth-Kumar
-![image alt](<img width="2946" height="1338" alt="Screenshot 2025-07-27 163245" src="https://github.com/user-attachments/assets/4e075ba9-6e85-45e3-8f0f-4d186c8d7b2d" />
-)
+![image alt](https://github.com/yeswanthrayudu/5009501_Rayudu-Yeswanth-Kumar/blob/1f455d211d7f1239816bceaba4972f00c6292164/SDLC/Screenshot%202025-07-27%20163245.png)
